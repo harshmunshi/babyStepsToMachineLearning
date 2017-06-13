@@ -32,3 +32,7 @@ Now Run the following command(s)
 <br />$ python harshNet.py
 <br />$ python save_asjson.py
 <br />$ python guess.py <path_to_image>
+
+# Credits
+
+https://gist.github.com/fchollet/0830affa1f7f19fd47b06d4cf89ed44d

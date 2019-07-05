@@ -12,7 +12,7 @@ This repo would be a great start for someone who wants to use deep learning for 
 You can download the data from https://www.kaggle.com/c/dogs-vs-cats/data . Follow the instructions and register yourself.
 
 # Getting started
-
+```
 <br /> $ git clone https://github.com/harshmunshi/babyStepsToMachineLearning
 <br /> $ cd babyStepsToMachineLearning
 <br /> $ mkdir data
@@ -20,7 +20,7 @@ You can download the data from https://www.kaggle.com/c/dogs-vs-cats/data . Foll
 <br />$ cd training && mkdir cats && mkdir dogs
 <br />$ cd ..
 <br />$ cd validation && mkdir cats && mkdir dogs
-
+```
 From the dataset you have downloaded, 
 1. put the cat pictures index 0-999 in data/train/cats
 2. put the cat pictures index 1000-1400 in data/validation/cats

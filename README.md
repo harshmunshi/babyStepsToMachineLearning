@@ -13,13 +13,13 @@ You can download the data from https://www.kaggle.com/c/dogs-vs-cats/data . Foll
 
 # Getting started
 ```
-<br /> $ git clone https://github.com/harshmunshi/babyStepsToMachineLearning
-<br /> $ cd babyStepsToMachineLearning
-<br /> $ mkdir data
-<br />$ cd data && mkdir training && mkdir validation
-<br />$ cd training && mkdir cats && mkdir dogs
-<br />$ cd ..
-<br />$ cd validation && mkdir cats && mkdir dogs
+$ git clone https://github.com/harshmunshi/babyStepsToMachineLearning
+$ cd babyStepsToMachineLearning
+$ mkdir data
+$ cd data && mkdir training && mkdir validation
+$ cd training && mkdir cats && mkdir dogs
+$ cd ..
+$ cd validation && mkdir cats && mkdir dogs
 ```
 From the dataset you have downloaded, 
 1. put the cat pictures index 0-999 in data/train/cats
